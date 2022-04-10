@@ -7,4 +7,4 @@
 <hr>
 
 ## Recipes:
-- [Tropical_Sprite_Mix](Tropical_Sprite_Mix/README.md){:target="_blank"}
+- [Tropical_Sprite_Mix](Tropical_Sprite_Mix/README.md)
