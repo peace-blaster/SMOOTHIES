@@ -9,4 +9,3 @@
 - Add the following code to the main `README.md` under `Recipes`: ```- [your-recipe](your-recipe/README.md)```
 - Push git repo: ```git push origin your-recipe```
 - Create pull request to `base:DEV`
-- Add the following code to the main `README.md` under `Recipes`: `- [your-recipe](your-recipe/README.md)`
