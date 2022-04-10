@@ -3,7 +3,7 @@
 #### **Contributor**: *peace-blaster*
 
 <hr>
-<img src='./media/ef7cf8c4-b87a-11ec-b065-1e7a96b15cae.png' width=300>
+<img src='../media/ef7cf8c4-b87a-11ec-b065-1e7a96b15cae.png' width=300>
 <hr>
 
 ## Ingredients:
