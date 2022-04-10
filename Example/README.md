@@ -7,15 +7,16 @@
 <hr>
 
 ## Ingredients:
-- **300mL** (frozen) mangoes
-- **100mL** (frozen) pineapple
-- **Half can** Sprite Zero (adjust for viscosity)
-- **1** tbps can sugar
-- **3** tbps plain yogurt
+- **9,976** rusty tacks
+- **2** New Balance running shoes
+- **100Ml** sulfuric acid
+- **2L** Panda Express kung pao sauce
 
 ## Instructions:
-- Partially thaw fruit if frozen
-- Blend ingredients in blender
-- Enjoy
+- insert tacs in New Balance running shoes
+- melt shoes with sulfuric acid
+- mix remains with Panda Express kung pao sauce
+- Call customer service and attempt to return shoes
+- If succesful, use returned funds at Jamba Juice
 
 #### [home](../README.md)
