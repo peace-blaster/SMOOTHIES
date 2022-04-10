@@ -1,0 +1,2 @@
+# SMOOTHIES
+My smoothies recipes
