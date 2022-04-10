@@ -10,8 +10,8 @@
 - **300mL** (frozen) mangoes
 - **100mL** (frozen) pineapple
 - **Half can** Sprite Zero (adjust for viscosity)
-- **1** tbps cane sugar
-- **3** tbps plain yogurt
+- **1 tbps** cane sugar
+- **3 tbps** plain yogurt
 
 ## Instructions:
 - Partially thaw fruit if frozen
