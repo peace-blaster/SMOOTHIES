@@ -17,3 +17,5 @@
 - Partially thaw fruit if frozen
 - Blend ingredients in blender
 - Enjoy
+
+#### [home](../README.md)

@@ -3,7 +3,7 @@
 #### **Contributor**: *you, hopefully*
 
 <hr>
-<img src='./media/ef7cf8c4-b87a-11ec-b065-1e7a96b15cae.png' width=300>
+<img src='../media/67ee8af4-b883-11ec-91c4-425bd21cfeb6.jpg' width=300>
 <hr>
 
 ## Ingredients:
